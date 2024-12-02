@@ -1,0 +1,18 @@
+1.PASTA---------------50 BIRR
+2.RUZ-----------------50 BIRR
+3.AYENET--------------60 BIRR
+4.DENECH--------------60 BIRR
+5.FIRFIR--------------60 BIRR
+6.ENKULAL--------- ---100 BIRR
+7.SPECIAL-------------100 BIRR
+8.KEYWOT--------------200 BIRR
+9.GOMENBESGA----------150 BIRR
+10.SGAFIRFIR----------150 BIRR
+11.MISETO-------------200 BIRR
+12.SGATEBES-----------200 BIRR
+13.KEKELE-------------200 BIRR
+14.KETEFO-------------800 BIRR
+15.THEREFORE---------- 5  BIRR
+
+17.EKULAL_FIRIR--------------70 BIRR
+18.kuret--------------1000 BIRR
